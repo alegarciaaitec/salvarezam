@@ -1,0 +1,16 @@
+{
+    "dart.flutterSdkPath": "",
+    "dart.checkForSdkUpdates": true,
+    "dart.previewFlutterUiGuides": true,
+    "dart.previewFlutterUiGuidesCustomTracking": true,
+    "dart.hotReloadOnSave": "allIfDirty",
+    "dart.flutterCreateAndroidLanguage": "kotlin",
+    "dart.flutterCreateIOSLanguage": "swift",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": "explicit"
+    },
+    "files.associations": {
+        "*.dart": "dart"
+    }
+}
